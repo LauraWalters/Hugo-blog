@@ -1,4 +1,5 @@
 baseURL = "https://laurawalters.github.io/Hugo-blog/"
 languageCode = "en-us"
+publishDir = "docs"
 title = "My New Hugo Site"
 theme = "ananke"
